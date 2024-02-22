@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **ASP.NET Core 5+**
 
-- 📫 How to reach me **hamzabilal21@gmail.com**
+- 📫 How to reach me **hamzadatabases@outlook.com**
 
 - ⚡ Fun fact **I think I am WORKAHOLIC!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamza-bilal-876215210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-bilal-876215210/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thehamzabilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-bilal-876215210/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
