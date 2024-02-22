@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Bilal</h1>
 <h3 align="center">A Certified ASP.NET Core, React, MS SQL Server & MongoDB Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Javascript, TypeScript & Angular**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Javascript, & React**
 
 - 👨‍💻 All of my projects are available at [thehamzabilal.com](thehamzabilal.com)
 
