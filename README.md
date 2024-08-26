@@ -6,11 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [thehamzabilal.com](thehamzabilal.com)
 
-- 📝 I regularly write articles on [thehamzabilal.com/blogs](thehamzabilal.com/blogs)
-
 - 💬 Ask me about **ASP.NET Core 5+**
 
-- 📫 How to reach me **hamzadatabases@outlook.com**
+- 📫 How to reach me **hamzabilal21@gmail.com**
 
 - ⚡ Fun fact **I think I am WORKAHOLIC!**
 
