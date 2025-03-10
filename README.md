@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
 
 
-- 👨‍💻 All of my projects are available at [UpWork] [https://www.upwork.com/freelancers/~018530d4cb5fb8e9dc?mp_source=share]
+- 👨‍💻 All of my projects are available at [UpWork](https://www.upwork.com/freelancers/~018530d4cb5fb8e9dc?mp_source=share)
 
 - 💬 Ask me about **ASP.NET Core 5+, ReactJS 17+,& NextJS 13+**
 
