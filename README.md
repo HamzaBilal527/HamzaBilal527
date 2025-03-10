@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://thehamzabilal.com)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Bilal</h1>
 <h3 align="center">Full Stack Developer | Web, Mobile, and Bubble Solutions Expert | AI/ML & Deep Learning | NLP, LLMs & Automation</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
 
 
 - 👨‍💻 All of my projects are available at [UpWork](https://www.upwork.com/freelancers/~018530d4cb5fb8e9dc?mp_source=share)
